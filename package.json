@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Robson",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
